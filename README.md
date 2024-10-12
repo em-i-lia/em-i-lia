@@ -1,7 +1,7 @@
 ## About Me 
 
 - 🌿 Currently working on a Green AI project 
-- 🌺 Interested in sustainability, renewable energy, waste management, recycling, and tackling misinformation.
+- 🌺 Interested in sustainability, renewable energy, waste management, recycling, and cybersecurity.
 - ✨ Only up from here
 
 
