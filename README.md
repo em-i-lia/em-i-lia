@@ -1,8 +1,10 @@
-## Hi 😊
+## About Me 
 
 - 🌿 Currently working on a Green AI project 
 - 🌺 Interested in sustainability, renewable energy, waste management, recycling, and tackling misinformation.
 - ✨ Only up from here
+
+
 
 <!--
 **em-i-lia/em-i-lia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
